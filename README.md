@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+
+
+![food](https://github.com/samik1234/my-foodiewe/assets/82882143/d09e1b53-2f36-45cb-9d45-03ca8407a638)
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
